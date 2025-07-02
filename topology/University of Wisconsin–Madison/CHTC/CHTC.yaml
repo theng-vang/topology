@@ -925,8 +925,8 @@ Resources:
           ID: OSG1000141
           Name: Joe Bartkowiak
         Tertiary:
-          ID: OSG1000003
-          Name: Brian Hua Lin
+          ID: OSG1000670
+          Name: Theng Vang
       Security Contact:
         Primary:
           Name: Aaron Moate
@@ -935,8 +935,8 @@ Resources:
           ID: OSG1000141
           Name: Joe Bartkowiak
         Tertiary:
-          ID: OSG1000003
-          Name: Brian Hua Lin
+          ID: OSG1000670
+          Name: Theng Vang
     FQDN: ap41.uw.osg-htc.org
     FQDNAliases:
       - ospool-ap4041.chtc.wisc.edu
